@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the accompanying preprint and repository."
+title: "From Heavy Spectral Participation to SU(3) Family Holonomy: Weighted Contractions, Defect Geometry, and Determinant-Locked Transport"
+type: article
+authors:
+  - family-names: "Rozas Fernández"
+    given-names: "Gregorio"
+version: "0.1.0"
+date-released: "2026-09-13"
+repository-code: "https://github.com/grerozas-tech/spectral-participation-su3-holonomy"
+license: "CC-BY-4.0"
+keywords:
+  - SU(3)
+  - holonomy
+  - Wilczek-Zee connection
+  - contraction theory
+  - unitary dilation
+  - flavor geometry
+  - spectral participation
