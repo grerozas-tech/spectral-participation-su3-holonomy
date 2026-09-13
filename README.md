@@ -4,7 +4,9 @@
 
 **Author:** Gregorio Rozas Fernández  
 **Affiliation:** Independent Researcher  
-**Status:** theoretical preprint / scientific draft, September 2026
+**Version:** v1.0.0  
+**Status:** theoretical preprint, September 2026  
+**DOI:** [`10.5281/zenodo.22736817`](https://doi.org/10.5281/zenodo.22736817)
 
 ## Overview
 
@@ -106,7 +108,9 @@ This repository is scientifically independent of the author's earlier CMS Open D
 
 ## DOI
 
-A dedicated Zenodo DOI will be added after the first archived release of this independent repository.
+**Zenodo DOI:** [`10.5281/zenodo.22736817`](https://doi.org/10.5281/zenodo.22736817)
+
+This DOI identifies the v1.0.0 theoretical preprint deposit. The GitHub repository remains the living source and reproducibility record.
 
 ## Author
 
